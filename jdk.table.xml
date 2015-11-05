@@ -1,0 +1,195 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="1.6" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.6.0&quot;" />
+      <homePath value="C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/annotation.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/beans.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmcertpathfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmcertpathprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmcfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmjcefw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmjgssfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmjgssprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmjssefw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmjsseprovider2.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmorb.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmorbapi.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmpkcs.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmsaslfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ibmxmlcrypto.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/j9zip.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/java.util.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/javascript.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/jlm.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/jndi.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/logging.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/security.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/sql.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/xml.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/xmldsigfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/CmpCrmf.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/dtfj-interface.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/dtfj.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/dtfjview.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/gskikm.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/healthcenter.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmcmsprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmjcefips.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmjceprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmkeycert.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/IBMKeyManagementServer.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmpkcs11impl.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmsaslprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/ibmxmlencprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/JavaDiagnosticsCollector.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/JawBridge.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/jdmpview.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/lib/ext/xmlencfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/6.0.0_7/jre/bin/default/jclSC160/vm.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="1.7" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/deploy.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmcertpathfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmcertpathprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmcfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmgpu.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmjcefw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmjgssfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmjgssprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmjssefw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmjsseprovider2.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmorb.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmorbapi.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmpkcs.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ibmsaslfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/javaws.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/jlm.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/jlm.src.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/math.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/plugin.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/rt.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/se-service.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/xml.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/xmldsigfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/CmpCrmf.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/dtfj-interface.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/dtfj.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/dtfjview.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/gskikm.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/healthcenter.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmcac.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmcmsprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmjcefips.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmjceprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmkeycert.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmpkcs11impl.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmsaslprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/IBMSecureRandom.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmxmlcrypto.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/ibmxmlencprovider.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/JavaDiagnosticsCollector.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/javascript.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/JawBridge.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/jdmpview.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/traceformat.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/xmlencfw.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/jre/bin/default/jclSC170/vm.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javafx/2/api/" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Clearcase/yli_3PP4Modeler/3rdpartycomponents/IBM/jdk/win-64/7.0.9_10/src.zip!/" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Android API 23 Platform" />
+      <type value="Android SDK" />
+      <version value="java version &quot;1.7.0&quot;" />
+      <homePath value="C:/Program Files (x86)/Android/android-sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://C:/Program Files (x86)/Android/android-sdk/platforms/android-23/android.jar!/" />
+            <root type="simple" url="file://C:/Program Files (x86)/Android/android-sdk/platforms/android-23/data/res" />
+            <root type="simple" url="jar://C:/Program Files (x86)/Android/android-sdk/tools/support/annotations.jar!/" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Program Files (x86)/Android/android-sdk/docs/reference" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Program Files (x86)/Android/android-sdk/sources/android-23" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional jdk="1.7" sdk="android-23" />
+    </jdk>
+  </component>
+</application>
